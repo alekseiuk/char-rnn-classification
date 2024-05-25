@@ -6,4 +6,6 @@ The model was trained on a few thousand surnames from 18 languages of origin, an
 
 Deploy the trained model with Gradio.
 
+[Demo on Hugging Face Spaces](https://huggingface.co/spaces/alekseiuk/char-rnn-classification)
+
 ![Alt text](https://github.com/alekseiuk/char-rnn-classification/blob/main/Screenshot.png)
