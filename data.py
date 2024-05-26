@@ -8,9 +8,6 @@ import string
 ALL_LETTERS = string.ascii_letters + " .,;'"
 N_LETTERS = len(ALL_LETTERS)
 
-def find_files(path): 
-    return glob.glob(path)
-
 # Turn a Unicode string to plain ASCII
 def unicode_to_ascii(s):
     return ''.join(
